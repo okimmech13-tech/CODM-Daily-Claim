@@ -1,0 +1,33 @@
+{
+  "player_id": "6985570029501153281",
+  "region": "auto",
+  "country_guess": "IN",
+  "profile": {
+    "username": "Okim13",
+    "shortId": "HRAVUC",
+    "picUrl": "",
+    "levelImage": "https://cdn1.codashop.com/S/content/webstore/codm/images/icon_playerlevel.png",
+    "rank": "Veteran I",
+    "rankImage": "https://cdn1.codashop.com/S/content/webstore/codm/images/icon_pvp_ranking_2_rating_1.png"
+  },
+  "resolved": {
+    "region": "sa",
+    "country": "CA"
+  },
+  "country": "CA",
+  "freebies": [
+    {
+      "skuId": "com.activision.callofduty.weekotov2_1n_0_0",
+      "name": "DAILY GIFT",
+      "status": "PURCHASE_LIMIT_REACHED",
+      "buyUrl": "https://order-sg.codashop.com/claim-freebie-reward",
+      "remaining": 0,
+      "limit": 1,
+      "refreshRate": 86400.0,
+      "refreshAtUnix": 1789689599
+    }
+  ],
+  "ok": false,
+  "step": "select",
+  "error": "no claimable freebie: DAILY GIFT (PURCHASE_LIMIT_REACHED, remaining 0)"
+}
